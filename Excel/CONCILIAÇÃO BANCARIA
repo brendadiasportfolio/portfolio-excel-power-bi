@@ -1,0 +1,1 @@
+Projeto de Conciliação Bancária desenvolvido em Excel para comparar valores do banco e do sistema, identificar divergências e acompanhar os resultados por período. Foram utilizadas as funções SE, CONT.SE, CONT.SES e DATA, além de tabelas e gráficos para análise e visualização dos dados.
